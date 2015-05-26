@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ExpenseLINQ">
+  <DataContextMoniker Name="/ExpenseLINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="73aea33e-b5aa-42a8-b684-47c328b053d2" absoluteBounds="0.5, 1.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/ExpenseLINQDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28191678-c5a9-4ae1-beec-19e39dc77c18" absoluteBounds="0.51500000000000012, 1.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c64fedb1-c464-44e9-b51e-a3203f12f9be" absoluteBounds="3.25, 3, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/ExpenseLINQDataContext/Catagory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d14f6d59-2499-4777-bb14-cc139c8bb86f" absoluteBounds="3.265, 3.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4fcf912e-018f-45f2-988b-e9435502254e" absoluteBounds="3.25, 0.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ExpenseLINQDataContext/ExpenseDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be112759-ef75-4719-824c-e5645ffa3b13" absoluteBounds="3.2649999999999997, 1.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
